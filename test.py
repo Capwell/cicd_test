@@ -1,1 +1,1 @@
-print('slkjdhf sdfkkjsdf dfsqwe')
+print('slkjdhf sdfkkjsdf выыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыdfsqwe')
